@@ -1,5 +1,5 @@
 # CodeDev — A Lightweight IDE by Niral Bhatt
-CodeDev is a lightweight, user-friendly Integrated Development Environment (IDE) developed by Niral Bhatt and is owned by his company, NovaCodon™(under Niral Studios™). It is built by App Procusing Studio™ which is under Niral Studios. Designed with simplicity and efficiency in mind, CodeDev empowers developers to write and manage code across a wide variety of programming and scripting languages.
+CodeDev is a lightweight, user-friendly Integrated Development Environment (IDE) developed by Niral Bhatt and is owned by his company, App Procusing Studio™, a subsidiary of NovaCodon™(under Niral Studios™). Designed with simplicity and efficiency in mind, CodeDev empowers developers to write and manage code across a wide variety of programming and scripting languages.
 
 Key Features:
 - Multi-language Support: Built-in compatibility with over 18 file types including Python, C++, Java, HTML, JSON, and more.
